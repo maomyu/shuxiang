@@ -1,0 +1,14 @@
+[
+    {
+        "server":"user",
+        "addr":"http://127.0.0.1:8200/"
+    },
+    {
+        "server":"hub",
+        "addr":"http://127.0.0.1:8300/"
+    },
+    {
+        "server":"comment",
+        "addr":"http://127.0.0.1:8400/"
+    }
+]
